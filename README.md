@@ -3,7 +3,7 @@ RNN implementation using only Numpy. Try to learn binary digit addition.
 ## [objective]
 * Understand RNN with a simple numpy implementation.
 * Train RNN for a binary opperation, e.g. addition.
-* Check if the trained RNN can be extended for the unseen data with longer digits (e.g. 8 bytes digits training -> 10 bytes digit test)
+* Check if the trained RNN can be extended to the unseen data with longer digits (e.g. 8 bytes digits training -> 10 bytes digit test)
 ## Problem (binary operation, especially addition)
 ![binary addition](https://iamtrask.github.io/img/binary_addition.GIF "Logo Title Text 1")
 ## [Refercence]
